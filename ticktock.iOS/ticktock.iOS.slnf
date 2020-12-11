@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "ticktock.sln",
+    "projects": [
+      "ticktock.Game\\ticktock.Game.csproj",
+      "ticktock.Resources\\ticktock.Resources.csproj",
+      "ticktock.iOS\\ticktock.iOS.csproj"
+    ]
+  }
+}

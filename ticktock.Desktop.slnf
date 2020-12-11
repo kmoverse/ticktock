@@ -1,0 +1,11 @@
+﻿{
+  "solution": {
+    "path": "ticktock.sln",
+    "projects": [
+      "ticktock.Desktop\\ticktock.Desktop.csproj",
+      "ticktock.Game\\ticktock.Game.csproj",
+      "ticktock.Game.Tests\\ticktock.Game.Tests.csproj",
+      "ticktock.Resources\\ticktock.Resources.csproj"
+    ]
+  }
+}
